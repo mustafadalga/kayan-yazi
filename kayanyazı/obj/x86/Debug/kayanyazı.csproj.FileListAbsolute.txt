@@ -1,0 +1,27 @@
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Form1.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Properties.Resources.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\bin\Debug\kayanyazı.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\bin\Debug\kayanyazı.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.pdb
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\bin\Debug\kayanyazı.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\bin\Debug\kayanyazı.pdb
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csprojAssemblyReference.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Form1.resources
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Properties.Resources.resources
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csproj.GenerateResource.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.pdb
+E:\Github Paylaş\kayanyazı\kayanyazı\bin\Debug\kayanyazı.exe
+E:\Github Paylaş\kayanyazı\kayanyazı\bin\Debug\kayanyazı.pdb
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csprojAssemblyReference.cache
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Form1.resources
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.Properties.Resources.resources
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csproj.GenerateResource.cache
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.csproj.CoreCompileInputs.cache
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.exe
+E:\Github Paylaş\kayanyazı\kayanyazı\obj\x86\Debug\kayanyazı.pdb
